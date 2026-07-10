@@ -94,7 +94,7 @@ return (
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-10">  
 
           <div className="text-center">  
-            <h2 className="text-4xl font-bold text-cyan-400">1000+</h2>  
+            <h2 className="text-4xl font-bold text-cyan-400">100+</h2>  
             <p className="text-gray-400 text-sm">Students</p>  
           </div>  
 

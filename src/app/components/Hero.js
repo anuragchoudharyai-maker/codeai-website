@@ -1,6 +1,6 @@
 export default function Hero() {
   const stats = [
-    { icon: "👥", value: "1000+", label: "Students" },
+    { icon: "👥", value: "100+", label: "Students" },
     { icon: "🤖", value: "50+", label: "AI Tools" },
     { icon: "💻", value: "15+", label: "Projects" },
     { icon: "🎧", value: "24×7", label: "Support" },
