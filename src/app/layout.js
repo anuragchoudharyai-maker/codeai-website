@@ -14,8 +14,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "CodeAI Institute",
-  description: "India's Best Practical AI Training Institute",
+  title: "CodeAI Institute | AI, Data Science & Full Stack Development Training in Korba",
+  description:
+    "Learn Generative AI, Data Science, Data Analytics and Full Stack Development at CodeAI Institute, Korba. 100% Practical Training, Live Projects, Expert Mentors and Placement Support.",
+  keywords: [
+    "CodeAI Institute",
+    "AI Institute Korba",
+    "Generative AI Course",
+    "Data Science Course",
+    "Data Analytics Course",
+    "Full Stack Development",
+    "AI Training Chhattisgarh",
+    "Coding Institute Korba",
+  ],
 };
 
 export default function RootLayout({ children }) {
