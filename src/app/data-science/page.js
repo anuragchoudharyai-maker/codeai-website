@@ -1,3 +1,37 @@
+export const metadata = {
+  title: "Data Science Course in Korba | CodeAI Institute",
+  description:
+    "Join the best Data Science Course in Korba, Chhattisgarh. Learn Python, SQL, Statistics, Power BI, Machine Learning, Deep Learning and AI with live projects and placement support.",
+  keywords: [
+    "Data Science Course Korba",
+    "Data Science Training Korba",
+    "Data Science Institute Korba",
+    "Python Course Korba",
+    "Machine Learning Course",
+    "Deep Learning Course",
+    "Data Science Chhattisgarh",
+    "CodeAI Institute"
+  ],
+  alternates: {
+    canonical: "https://codeaiinstitute.com/data-science",
+  },
+  openGraph: {
+    title: "Data Science Course | CodeAI Institute",
+    description:
+      "Master Python, SQL, Machine Learning and AI with practical training at CodeAI Institute.",
+    url: "https://codeaiinstitute.com/data-science",
+    siteName: "CodeAI Institute",
+    images: [
+      {
+        url: "/og-image.jpeg",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: "en_IN",
+    type: "website",
+  },
+};
 export default function DataScience() {
   return (
     <main className="min-h-screen bg-slate-950 text-white overflow-x-hidden">
